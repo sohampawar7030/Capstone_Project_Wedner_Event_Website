@@ -44,4 +44,4 @@ Contact: Mobile: 9156161444
 Whether you're a developer looking to contribute or a potential client seeking inspiration for your next event, we invite you to explore our GitHub project and join us in shaping unforgettable experiences at Wedner Event. Let's collaborate to create moments that last a lifetime.
 
 # GitHub Repository Link
-https://github.com/Samu026/Capstone_Project_Wedner_Event_Website
+https://github.com/Sohampawar7030/Capstone_Project_Wedner_Event_Website
